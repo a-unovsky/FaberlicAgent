@@ -1,4 +1,4 @@
-// package com.dominyuk.faberlicagent;
+package com.dominyuk.faberlicagent;
 
 import java.io.*;
 public class InputReader {
