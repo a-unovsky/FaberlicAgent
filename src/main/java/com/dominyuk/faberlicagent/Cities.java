@@ -12,7 +12,7 @@ How FAr Is Lviv (km):
 The nearest city is: ….
 */
 public class Cities {
-	/*
+	/**
 	 * TODO:
 	 * if program is run without params it should print:
 	 * run <ProgramName> city1
