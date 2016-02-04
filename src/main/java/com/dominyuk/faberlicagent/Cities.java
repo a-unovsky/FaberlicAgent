@@ -2,6 +2,15 @@ package com.dominyuk.faberlicagent;
 
 import java.util.*;
 
+/**
+II CitiesUtility
+Read citites name as program args:
+java CitiesUtilities Kyiv Lviv Donetsk
+How Far is Kyiv (km):
+How FAr Is Lviv (km):
+…
+The nearest city is: ….
+*/
 public class Cities {
 	/*
 	 * TODO:
